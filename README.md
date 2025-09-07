@@ -12,7 +12,7 @@
 
 ## 🚀 **About Me**
 
-** Full Stack Software Engineer | Laravel • Symfony • Vue.js • React • AWS | Microservices & Cloud ** with **6+ years** of experience specializing in **PHP** and **JavaScript** ecosystems. I transform legacy systems into scalable, modern web applications and build new products from scratch that deliver real business value.
+** Full Stack Software Engineer | Laravel • Symfony • Vue.js • React • AWS | Microservices & Cloud ** with **6+ years** of experience specializing in  transform legacy systems into scalable, modern web applications and build new products from scratch that deliver real business value.
 
 ```php
 <?php
