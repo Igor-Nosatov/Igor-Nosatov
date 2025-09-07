@@ -4,6 +4,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Senior+Full+Stack+Engineer;Transforming+Legacy+Systems+%E2%9A%A1;Building+Scalable+Modern+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+
+
 </div>
 
 ---
